@@ -18,12 +18,12 @@ namespace GLevantamentos.Models
         public Equipament Equipaments { get; set; }
 
         public SurveyResources() { }
-        public SurveyResources(int survey,int block, int flooring, int equipament)
+        public SurveyResources(int id,Survey survey,Block block, Flooring flooring, Equipament equipament)
         {
-            SurveyId = survey;
-            BlockId = block;
-            FlooringId = flooring;
-            EquipamentId = equipament;
+            Surveys = survey;
+            Blocks = block;
+            Floorings = flooring;
+            Equipaments = equipament;
 
         }
     }

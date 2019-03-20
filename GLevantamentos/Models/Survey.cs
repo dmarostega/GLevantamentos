@@ -44,11 +44,12 @@ namespace GLevantamentos.Models
 
         public Survey() { }
 
-        public Survey(int _id, Client _client, User _user)
+        public Survey(int _id,string _description, Client _client, User _user)
         {
-            id = _id;
+            //id = _id;
+            description = _description;
             Client = _client;
-            user = _user;
+            User = _user;
         }
         
     }
