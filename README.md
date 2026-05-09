@@ -1,6 +1,6 @@
 # GLevantamentos - Sistema de Levantamentos
 
-Sistema administrativo para gerenciamento de levantamentos (provavelmente orçamentários ou operacionais), feito com Laravel.
+Sistema administrativo para gerenciamento de levantamentos (provavelmente orçamentários ou operacionais).
 
 ## Tecnologias
 - Laravel
