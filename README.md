@@ -3,9 +3,7 @@
 Sistema administrativo para gerenciamento de levantamentos (provavelmente orçamentários ou operacionais).
 
 ## Tecnologias
-- Laravel
-- MySQL
-- Blade / Livewire / Vue (se usados)
+- A definir
 
 ## Funcionalidades (em desenvolvimento)
 - Cadastro e gerenciamento de usuários
